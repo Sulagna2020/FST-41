@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/Selenium 3.141.59-20200227T071916Z-001/Selenium 3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/selenium/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/selenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/selenium/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/selenium/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/selenium/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/common_JARs/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/TestNG/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/TestNG/guice-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/TestNG/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/TestNG/testng-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/TestNG/velocity-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/TestNG/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/selenium_java-master/TestNG/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/webdriver-implicit-wait-wrapper-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/webdriver-repeatable-actions-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/webdriver-wrapper-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/Selenium 3.141.59-20200227T071916Z-001/selenium-server-standalone-3.141.59.jar.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/Log4j &amp; Extends Report-20200309T063507Z-001/Log4j _ Extends Report/Log4J/Jar Files/log4j-core-2.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/auto-common-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/byte-buddy-1.12.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/failsafe-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-buffer-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-codec-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-codec-http-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-codec-socks-4.1.60.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-common-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-handler-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-handler-proxy-4.1.60.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-resolver-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-transport-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-transport-classes-epoll-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-transport-classes-kqueue-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-transport-native-epoll-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-transport-native-kqueue-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/netty-transport-native-unix-common-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/opentelemetry-api-1.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/opentelemetry-context-1.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/opentelemetry-exporter-logging-1.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/opentelemetry-sdk-1.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/opentelemetry-sdk-common-1.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/opentelemetry-sdk-extension-autoconfigure-1.15.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/opentelemetry-sdk-extension-autoconfigure-spi-1.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/opentelemetry-sdk-logs-1.15.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/opentelemetry-sdk-metrics-1.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/opentelemetry-sdk-trace-1.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/opentelemetry-semconv-1.15.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/selenium-api-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/selenium-http-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/selenium-json-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/selenium-remote-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/selenium-support-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/jar/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ABC/.m2/repository/org/seleniumhq/selenium/selenium-support/4.3.0/selenium-support-4.3.0.jar" sourcepath="C:/Users/ABC/.m2/repository/org/seleniumhq/selenium/selenium-support/4.3.0/selenium-support-4.3.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-support"/>
+			<attribute name="maven.version" value="4.3.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ABC/Downloads/LOG4jar/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
